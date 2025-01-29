@@ -209,5 +209,11 @@ You can test the API using tools like **Postman** or **cURL**.
 
 ---
 
+## Author
+
+Adjis Ramadhani Utomo
+
+---
+
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
